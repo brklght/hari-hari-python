@@ -1,4 +1,6 @@
-Boolean = [True, False]
+Boolean = True
+print(Boolean)
+Boolean = False
 String = "This is string"
 Integer = 1
 Float = 1.11
