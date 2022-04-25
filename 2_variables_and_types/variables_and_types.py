@@ -6,10 +6,10 @@ Hexadecimal = hex(0x1a)
 Complex = 1 + 1j
 List = [Boolean, String, Integer]
 Tuple = (Boolean, String, Integer)
-Dictionary =	{
-				'Boolean': 'True/False',
-				'Integer': 1
-				}
+Dictionary = {
+	'Boolean': 'True/False',
+	'Integer': 1
+	}
 
 print(Boolean)
 print(String)
